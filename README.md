@@ -56,7 +56,7 @@ Accuracy Score, Classification Report, Confusion Matrix, F1-Score, Jaccard Score
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/Palak_gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/palak-gupta-ML)
+[![linkedin](https://img.shields.io/badge/Palak_gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-gupta-/)
 
 
 ## Authors
